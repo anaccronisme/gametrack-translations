@@ -13,12 +13,12 @@
 "LINK_YOUR_ACCOUNTS_HEADING" = "Liez vos comptes de jeu";
 "ACCOUNT_DETAILS_TITLE" = "Détails des comptes";
 "USERNAME_LABEL" = "Nom d'utilisateur";
-"VALID_USERAME_MESSAGE" = "Veuillez entrer un nom d'utilisateur valide (aucun caractère special ni d'espace).";
-"USERNAME_IN_USE" = "Nom d'utilisateur déjà utilisé. Veuillez essayer un nouveau.";
+"VALID_USERAME_MESSAGE" = "Veuillez entrer un nom d'utilisateur valide (sans caractère spécial ni espace).";
+"USERNAME_IN_USE" = "Nom d'utilisateur déjà utilisé. Essayez-en un autre !";
 "PERMISSION_ERROR_TITLE" = "Erreur de permission";
 "PERMISSION_ERROR_MESSAGE" = "L'accès à la bibliothèque de photos a été refusé. Veuillez accéder aux Réglages et activer l'accès à la bibliothèque de photos pour sélectionner une image.";
 
-"WELCOME_TAG_LINE" = "Rendez la gestion de votre collection de jeux vidéo simple et agréable.";
+"WELCOME_TAG_LINE" = "Organisez toute votre collection de jeux-vidéo du bout des doigts ";
 
 "ONBOARDING_OPTION_1" = "Ajoutez le jeu de votre choix";
 "ONBOARDING_OPTION_1_MESSAGE" = "En utilisant la base de données de IGDB, recherchez n'importe quel jeu sur n'importe quelle plate-forme à ajouter à votre Carnet de jeux, à vos Archives et à votre Liste de souhaits.";
@@ -38,25 +38,25 @@
 "ONBOARDING_OPTION_5_MESSAGE" = "Créez un compte GameTrack pour partager votre progression et vos listes avec vos amis.";
     
 "ONBOARDING_OPTION_6" = "Actions rapides";
-"ONBOARDING_OPTION_6_MESSAGE" = "Maintenez appuyé sur un jeu dans une liste pour modifier rapidement votre progression, la note, partager le jeu ou le déplacer dans une autre liste.";
+"ONBOARDING_OPTION_6_MESSAGE" = "Appuyez longuement sur un jeu dans une liste pour modifier rapidement votre progression ou la note, partager le jeu ou le déplacer dans une autre liste.";
 
 "ONBOARDING_OPTION_7" = "Importez tous vos jeux dans vos listes";
-"ONBOARDING_OPTION_7_MESSAGE" = "Liez vos comptes pour importer vos jeux avec les Trophées et les Succès débloqués.";
+"ONBOARDING_OPTION_7_MESSAGE" = "Liez vos comptes pour importer vos jeux, leurs Trophées et Succès déjà débloqués.";
 
-"ONBOARDING_OPTION_8" = "Restez synchronisé";
+"ONBOARDING_OPTION_8" = "Toujours synchro";
 "ONBOARDING_OPTION_8_MESSAGE" = "Les Trophées et les Succès des jeux importés resteront à jour.";
 
 "LINK_STEAM_ACCOUNT_TITLE" = "Liez votre compte Steam";
-"LINK_STEAM_ACCOUNT_MESSAGE" = "Avant d'associer votre compte Steam, veuillez vous assurer que les paramètres de confidentialité 'Détails du jeu' de votre profil Steam sont définis sur 'Public'.";
+"LINK_STEAM_ACCOUNT_MESSAGE" = "Avant d'associer votre compte Steam, veuillez vous assurer que les paramètres de confidentialité 'Détails du jeu' de votre profil Steam sont définis sur 'Publiques'.";
 
 "ONBOARDING_OPTION_9" = "Partagez votre activité";
 "ONBOARDING_OPTION_9_MESSAGE" = "Publiez automatiquement sur votre flux lorsque vous ajoutez, terminez, complétez, abandonnez ou souhaitez un jeu.";
 
 "ONBOARDING_OPTION_10" = "Suivez les activités de vos amis";
-"ONBOARDING_OPTION_10_MESSAGE" = "Suivez vos amis pour voir leurs activités de jeu et leurs notes.";
+"ONBOARDING_OPTION_10_MESSAGE" = "Ajoutez vos amis pour voir leurs activités de jeu et leurs notes.";
 
 "ONBOARDING_OPTION_11" = "Partagez vos coups de coeur";
-"ONBOARDING_OPTION_11_MESSAGE" = "Partagez vos listes avec vos amis.";
+"ONBOARDING_OPTION_11_MESSAGE" = "Partagez vos listes de jeux avec vos amis.";
 
 "SIGN_IN_WITH_PSN_TITLE" = "Se connecter au PSN";
 "SIGN_IN_WITH_STEAM" = "Se connecter à Steam";
@@ -69,13 +69,13 @@
 "LIBRARY_LABEL" = "Bibliothèque";
 "SEARCH_LABEL" = "Rechercher";
 
-"BACKLOG_TITLE" = "Arriéré";
+"BACKLOG_TITLE" = "Backlog";
 "ARCHIVE_TITLE" = "Archive";
 "WISH_LIST_TITLE" = "Liste de Souhaits";
 "RANKED_TITLE" = "Classement";
 "LISTS_TITLE" = "Listes";
 "DISCOVER_TITLE" = "Découvrir";
-"FEATURED_TITLE" = "En vedette";
+"FEATURED_TITLE" = "À la une";
 "POPULAR_TITLE" = "Populaires";
 "UPCOMING_TITLE" = "Prochainement";
 "RECENT_TITLE" = "Sorties récentes";
@@ -88,15 +88,15 @@
 "STATISTICS_TITLE" = "Statistiques";
 "ACCOUNTS_TITLE" = "Comptes";
 
-"NOW_PLAYING_STATUS" = "Jeux en Cours";
-"PLAY_NEXT_STATUS" = "Jeux Suivants";
+"NOW_PLAYING_STATUS" = "Jeux en cours";
+"PLAY_NEXT_STATUS" = "Jeux suivants";
 "COLLECTION_STATUS" = "Collection";
 "FINISHED_STATUS" = "Terminé";
 "COMPLETED_STATUS" = "Completé";
 "ABANDONED_STATUS" = "Abandonné";
 
-"NOW_PLAYING_TITLE" = "Jeux en Cours";
-"PLAY_NEXT_TITLE" = "Jeux Suivants";
+"NOW_PLAYING_TITLE" = "Jeux en cours";
+"PLAY_NEXT_TITLE" = "Prochains jeux";
 "COLLECTION_TITLE" = "Collection";
 "FINISHED_TITLE" = "Terminé";
 "COMPLETED_TITLE" = "Completé";
@@ -105,13 +105,13 @@
 "OUT_NOW_TITLE" = "Disponibles";
 "NO_BACKLOG_DATE_TITLE" = "Aucune date dans le Carnet de jeux";
 "NO_ARCHIVE_DATE_TITLE" = "Aucune date d'Archivage";
-"EMPTY_LIST_LABEL" = "Votre liste est vide ! Appuyez sur le bouton + pour ajouter des jeux.";
+"EMPTY_LIST_LABEL" = "Cette liste est toute vide ! Appuyez sur le bouton + pour ajouter des jeux.";
 "EMPTY_FEED_LABEL" = "Aucun post trouvé. Essayez de suivre plus de personnes en utilisant le bouton de recherche.";
 "PLEASE_SIGN_IN_LABEL" = "Veuillez vous connecter pour voir votre flux d'activité.";
 
-"SEE_ALL_BUTTON_TITLE" = "Voir tout";
+"SEE_ALL_BUTTON_TITLE" = "Tout voir";
 "CLEAR_BUTTON_TITLE" = "Retirer";
-"ADD_GAME_BUTTON_TITLE" = "Ajouter le jeu";
+"ADD_GAME_BUTTON_TITLE" = "Ajouter ce jeu";
 "SAVE_BUTTON_TITLE" = "Enregistrer";
 "SORT_OPTIONS_TITLE" = "Options de tri";
 
@@ -120,18 +120,18 @@
 "MOVE_BUTTON_TITLE" = "Déplacer";
 "SHARE_BUTTON_TITLE" = "Partager";
 "DELETE_BUTTON_TITLE" = "Supprimer";
-"DELETE_GAME_ALERT_TITLE" = "Supprimer le jeu";
-"DELETE_GAME_ALERT_MESSAGE" = "Êtes-vous sûr de supprimer ce jeu de votre liste ?";
+"DELETE_GAME_ALERT_TITLE" = "Supprimer ce jeu";
+"DELETE_GAME_ALERT_MESSAGE" = "Voulez-vous vraiment supprimer ce jeu de votre liste ?";
 
 "PLATFORM_INFO_HEADING" = "Plate-formes";
 "SUMMARY_INFO_HEADING" = "Résumé";
-"RELEASE_DATE_INFO_HEADING" = "Date de Parution";
+"RELEASE_DATE_INFO_HEADING" = "Date de sortie";
 "BACKLOG_DATE_INFO_HEADING" = "Date d'ajout dans le Carnet de jeux";
-"ARCHIVE_DATE_INFO_HEADING" = "Date d'Archivage";
+"ARCHIVE_DATE_INFO_HEADING" = "Date d'archivage";
 "GENRES_INFO_HEADING" = "Genres";
-"SCREENSHOTS_INFO_HEADING" = "Images";
+"SCREENSHOTS_INFO_HEADING" = "Screenshots";
 "VIDEOS_INFO_HEADING" = "Vidéos";
-"CRITIC_RATING_INFO_HEADING" = "Score critique";
+"CRITIC_RATING_INFO_HEADING" = "Note critique";
 "ACHIEVEMENTS_HEADING" = "Succès";
 "TROPHIES_HEADING" = "Trophées";
 
@@ -157,14 +157,14 @@
 "LIST_TYPE_HEADING" = "Type de liste";
 "ADD_LIST_BUTTON_TITLE" = "Ajouter";
 
-"SCREENSHOT_ERROR_TITLE" = "Erreur d'image";
-"SCREENSHOT_ERROR_MESSAGE" = "Aucune image trouvée pour le jeu sélectionné.";
+"SCREENSHOT_ERROR_TITLE" = "Erreur de screenshot";
+"SCREENSHOT_ERROR_MESSAGE" = "Aucun screenshot trouvé pour le jeu sélectionné.";
 "ARTWORK_ERROR_TITLE" = "Erreur d'illustration";
 "ARTWORK_ERROR_MESSAGE" = "Aucune illustration trouvée pour le jeu sélectionné.";
 "DEFAULT_POSTER_ERROR_MESSAGE" = "Aucune affiche par défaut trouvée pour le jeu sélectionné.";
 "DEFAULT_POSTER_ERROR_TITLE" = "Erreur d'affiche";
 
-"BACKLOG_LIST_SELECTION_SUBTITLE" = "Jeux possédés et actuellement joués";
+"BACKLOG_LIST_SELECTION_SUBTITLE" = "Jeux possédés et joués en ce moment";
 "ARCHIVE_LIST_SELECTION_SUBTITLE" = "Jeux terminés et abandonnés";
 "WISH_LIST_SELECTION_SUBTITLE" = "Jeux que vous aimeriez avoir";
 "RANKED_LIST_SELECTION_SUBTITLE" = "Listez vos jeux dans un classement";
@@ -233,9 +233,9 @@
 "PLUS_DISCOUNT_HEADING" = "Remise de 20% appliquée sur le pack Customise 👍";
 "PRICING_PER_MONTH_LABEL" = "par mois";
 "PRICING_PER_YEAR_LABEL" = "par an";
-"SUCCESSFUL_PURCHASE_LABEL" = "Achat réussi !";
+"SUCCESSFUL_PURCHASE_LABEL" = "Achat validé, merci !";
 "PURCHASES_NOT_ALLOWED_ERROR" = "Les achats ne sont pas autorisés sur cet appareil.";
-"PURCHASES_INVALID_ERROR" = "Achat invalide, vérifiez votre moyen de paiement.";
+"PURCHASES_INVALID_ERROR" = "Le paiement a échoué… Veuillez vérifier votre moyen de paiement.";
 "NETWORK_ERROR" = "Erreur de réseau, veuillez vérifier votre connexion internet.";
 "UNKNOWN_ERROR" = "Erreur de serveur inconnue, veuillez essayer à nouveau.";
 "PURCHASE_ERROR" = "Erreur d'achat";
@@ -258,16 +258,16 @@
 
 "PLUS_TITLE" = "Plus";
 "COLOURS_TITLE" = "Couleurs";
-"LEGACY_COLOURS_TITLE" = "Legacy Colours";
-"LEGACY_SPECIAL_TITLE" = "Legacy Special";
+"LEGACY_COLOURS_TITLE" = "Couleurs Legacy";
+"LEGACY_SPECIAL_TITLE" = "Special Legacy";
 "SPECIAL_TITLE" = "Spécial";
 
-"POSTER_LABEL" = "Affiche";
-"COMPACT_POSTER_LABEL" = "Affiche compacte";
+"POSTER_LABEL" = "Poster";
+"COMPACT_POSTER_LABEL" = "Poster compact";
 "BANNER_LABEL" = "Bannière";
 
 "ABOUT_BUTTON_TITLE" = "À propos";
-"CREDITS_TITLE" = "Designed and developed by Joe Kimberlin-Wyer in London, UK.";
+"CREDITS_TITLE" = "Désigné et développé par Joe Kimberlin-Wyer à Londres, UK.";
 "IGDB_TITLE" = "Données de jeu fournies par IGDB.com";
 "VERSION_TITLE" = "Version";
 
@@ -296,7 +296,7 @@
 "PUZZLE_LABEL" = "Puzzle";
 "RTS_LABEL" = "RTS";
 "BEAT_LABEL" = "Beat 'em up";
-"PLATFORMER_LABEL" = "Platformer";
+"PLATFORMER_LABEL" = "Plate-forme";
 "RACING_LABEL" = "Course";
 "SPORT_LABEL" = "Sport";
 "ARCADE_LABEL" = "Arcade";
@@ -334,33 +334,33 @@
 "HOURS_PLAYED_LABEL" = "Heures jouées";
 "COMPARE_TIME_LABEL" = "Comparer";
 "NOTES_TITLE" = "Notes";
-"TRUE_DARK_THEME_LABEL" = "True Dark";
-"MISSING_GAME_ALERT_TITLE" = "Jeux absents ?";
-"MISSING_GAME_ALERT_MESSAGE" = "Si vous pensez que certains jeux ne figurent pas dans cette liste, appuyez sur «Envoyer» pour m'envoyer un e-mail avec les titres absents.";
-"MISSING_GAME_ALERT_SEND" = "Envoyer les jeux absents";
-"MISSING_GAMES_HEADING" = "Jeux absents ?";
+"TRUE_DARK_THEME_LABEL" = "Ultra sombre";
+"MISSING_GAME_ALERT_TITLE" = "Il manque un jeu ?";
+"MISSING_GAME_ALERT_MESSAGE" = "Si vous pensez que certains jeux ne figurent pas dans cette liste, appuyez sur «Envoyer» pour m'envoyer un e-mail avec les titres non disponibles.";
+"MISSING_GAME_ALERT_SEND" = "Envoyer les jeux manquants";
+"MISSING_GAMES_HEADING" = "Il manque un jeu ?";
 "UPDATE_HOURS_PLAYED_LABEL" = "Modifier les heures jouées";
 "STANDARD_THEME_LABEL" = "Standard";
 "COLOURFUL_THEME_LABEL" = "Coloré";
 "WIDGET_THEME_LABEL" = "Thème Widget";
 "TYPE_LABEL" = "Type";
 "EARNED_LABEL" = "Earned";
-"RARITY_LABEL" = "Rarity";
-"SELECT_ADDITIONAL_PLATFORMS_LABEL" = "Change Additional Platforms";
-"PUBLISHER_INFO_HEADING" = "Publisher";
-"DEVELOPER_INFO_HEADING" = "Developer";
+"RARITY_LABEL" = "Rareté";
+"SELECT_ADDITIONAL_PLATFORMS_LABEL" = "Sélectionner des plate-formes supplémentaires";
+"PUBLISHER_INFO_HEADING" = "Éditeur";
+"DEVELOPER_INFO_HEADING" = "Developpeur";
 
-"EMPTY_LIST_LABEL_MAC" = "Your list is empty! Click any of the options under Discover in the side bar to find some games.";
+"EMPTY_LIST_LABEL_MAC" = "Cette liste est toute vide ! Sélectionnez une des options sous Découvrir, dans la barre de menu latérale pour trouver quelques jeux.";
 "EMPTY_FEED_LABEL_MAC" = "No posts found. Try searching for some people to follow using the search bar.";
 "COMPACT_BANNER_LABEL" = "Bannière compacte";
 
-"YEAR_IN_REVIEW_HEADING" = "Year In Review";
-"YEAR_IN_REVIEW_SUBTITLE" = "Look back over your year in gaming";
+"YEAR_IN_REVIEW_HEADING" = "Bilan de l'année";
+"YEAR_IN_REVIEW_SUBTITLE" = "Revenez sur votre année de gaming";
 
-"SHOW_CALENDAR_LABEL" = "Show Calendar";
+"SHOW_CALENDAR_LABEL" = "Affiche le calendrier";
 "OPEN_CRITIC_TITLE" = "OpenCritic";
 
 "SORT_GROUP_LABEL" = "Change Sorting/Grouping";
-"DELETE_LIST_ALERT_TITLE" = "Delete List";
-"DELETE_LIST_ALERT_MESSAGE" = "Are you sure you want to delete this list and all included games?";
-"SHARE_LIST_LABEL" = "Share List";
+"DELETE_LIST_ALERT_TITLE" = "Supprimer la liste List";
+"DELETE_LIST_ALERT_MESSAGE" = "Voulez-vous vraiment supprimer cette liste et tous les jeux inclus ?";
+"SHARE_LIST_LABEL" = "Partager la liste";
